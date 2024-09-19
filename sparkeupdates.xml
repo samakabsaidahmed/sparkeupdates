@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>1timeliste</title>
+        <title>1Timeliste</title>
         <link>https://github.com/samakabsaidahmed/sparkeupdates/releases/download/prod/sparkeupdates.xml</link>
         <description>Updates for 1timeliste</description>
         <language>en</language>
@@ -11,7 +11,7 @@
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/samakabsaidahmed/sparkeupdates/releases/download/prod/1timelistvsamakabeple.dmg" length="7546808" type="application/octet-stream" sparkle:edSignature="Fc8MXlPP7gstdRpdzwplxGpSXlSQFts1FNlA2tyaxpbgGmupftRoc2ERdIfOPcVWwYmvmKkgXvv5CGCcQp7iCQ=="/>
+            <enclosure url="https://github.com/samakabsaidahmed/sparkeupdates/releases/download/prod/1timelistvsamakabeple.dmg" length="7546808" type="application/octet-stream" sparkle:dsaSignature="Fc8MXlPP7gstdRpdzwplxGpSXlSQFts1FNlA2tyaxpbgGmupftRoc2ERdIfOPcVWwYmvmKkgXvv5CGCcQp7iCQ=="/>
         </item>
         <item>
             <title>Version 1.0.1</title>
@@ -19,7 +19,7 @@
             <sparkle:version>1.0.1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/samakabsaidahmed/sparkeupdates/releases/download/prod/1timelistvsamakabeple_1.0.1.dmg" length="7546808" type="application/octet-stream" sparkle:edSignature="NEW_SIGNATURE_HERE"/>
+            <enclosure url="https://github.com/samakabsaidahmed/sparkeupdates/releases/download/prod/1timelistvsamakabeple_1.0.1.dmg" length="7546808" type="application/octet-stream" sparkle:dsaSignature="NEW_SIGNATURE_HERE"/>
         </item>
     </channel>
 </rss>
