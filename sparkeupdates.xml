@@ -1,9 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>1timeliste</title>
+        <link>https://github.com/samakabsaidahmed/sparkeupdates/releases/download/prod/sparkeupdates.xml</link>
+        <description>Updates for 1timeliste</description>
+        <language>en</language>
         <item>
-            <title>0.9</title>
+            <title>Version 0.9</title>
             <pubDate>Wed, 18 Sep 2024 19:52:18 +0200</pubDate>
             <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
