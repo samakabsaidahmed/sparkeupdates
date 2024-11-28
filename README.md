@@ -10,7 +10,8 @@ Collection:
 
 
 Third party: 
-The app uses MET Norway to give you the weather data and openstreetmap to display data of places in the searchfield
+The app uses  your longitude and latitude and may use  it to fetch weather data from met.no
+The app uses your search in the textfied and may use it to fetch location data from openstreetmap.org
 
 
 
