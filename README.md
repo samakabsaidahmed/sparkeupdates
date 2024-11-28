@@ -1,4 +1,4 @@
-# 1hundrede privacy policy
+# 1hundrede privacy policy & contact
 
 
 
@@ -15,3 +15,5 @@ The app uses your search in the textfied and may use it to fetch location data f
 
 
 
+For concact:
+Mail: ahmedsamakab@gmail.com
