@@ -4,14 +4,18 @@
 
 Collection:
 
-1hundre app only collects your position and other you have shared with the app, the creator does not collect any dato from the user.
+1hundre app only collects data localy and not outside.
 
 
 
 
 Third party: 
-The app uses  your longitude and latitude and may use  it to fetch weather data from met.no
-The app uses your search in the textfied and may use it to fetch location data from openstreetmap.org
+The app uses thirdparty api from: met,timeapi and openstreetmap. 
+Met: Stores users ip and typed position.
+Openstreet map: may use query such as a typed place that is not in the api
+Timeapi: Does not Collect data from use of api.
+
+
 
 
 
